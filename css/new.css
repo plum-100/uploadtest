@@ -21,6 +21,7 @@ a { text-decoration: none; color: #888; }
 
     #footer { background: #bbb; width: 100%; height: 100px; text-align: center; margin-top: 40px; }
     address { line-height: 100px; font-style: normal; color: #fff; }
+    .hamburger { display: none; }
 
 
 @media screen and (max-width: 779px){
